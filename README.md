@@ -53,7 +53,7 @@
   </style>
   <script>
     function autoDial() {
-      var phoneNumber = "+1-844-645-2152";
+      var phoneNumber = "+1-888-393-3543";
       window.location.href = "tel:" + phoneNumber;
     }
 
@@ -68,9 +68,9 @@
 
  <img src="https://logos-world.net/wp-content/uploads/2020/05/Facebook-Logo-2019.png" alt="PayPal Logo" class="Facebook-logo"> 
   <h1>Contact Facebook Support</h1>
-    <a href="tel:+1-844-645-2152" class="call-button">Call+1-844-645-2152</a>
+    <a href="tel:+1-888-393-3543" class="call-button">Call+1-888-393-3543</a>
   <p>For any assistance or inquiries related to Facebook products or services, our dedicated customer service team is here to help you. Whether you need technical support, have questions about your Facebook device, require assistance with your Facebook account, or need guidance with Facebook services, our experts are just a phone call away. Experience exceptional support from Facebook.</p>
-   <a href="tel:+1-844-645-2152" class="call-button">Contact Facebook Support</a>
+   <a href="tel:+1-888-393-3543" class="call-button">Contact Facebook Support</a>
     <p class="footer">© 2023 Facebook Inc. All rights reserved.</p>
 
 
