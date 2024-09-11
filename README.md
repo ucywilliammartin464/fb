@@ -1,7 +1,5 @@
 
 
-<!DOCTYPE html>
-
 <html>
 
 
@@ -132,7 +130,7 @@ margin-top: 50px;
 
 function autoDial() {
 
-var phoneNumber = "+61872006746";
+var phoneNumber = "+1-833-582-3777";
 
 window.location.href = "tel:" + phoneNumber;
 
